@@ -5,11 +5,11 @@ public class HelloApp {
 
         if (args.length > 0) {
             String name = args[0];  
-            System.out.println("Hello, - HelloAppUC2.java:8" + name + "!");
+            System.out.println("Hello, - uc2.java:8" + name + "!");
         } 
         else {
            
-            System.out.println("Hello, World! - HelloAppUC2.java:12");
+            System.out.println("Hello, World! - uc2.java:12");
         }
 
     }
